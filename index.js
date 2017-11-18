@@ -11,4 +11,7 @@ function scuberGreetingForFeet(distance) {
  };
 }
 
+ternaryCheckCity(city){
+    return (city === "Charlotte") ? "Ok, sounds good." : "No go."
+}
 
